@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/rahulk31/auth-service-mern/issues"
   },
-  "homepage": "https://github.com/rahulk31/auth-service-mern#readme"
+  "homepage": "https://github.com/rahulk31/auth-service-mern#readme",
+  "devDependencies": {
+    "@types/node": "^22.17.2",
+    "typescript": "^5.9.2"
+  }
 }
